@@ -4,7 +4,7 @@ html, body {
 }
 
 
-/* Number one way to center a div */
+/* Number one */
 /* .container{
   height: 100vh;
   display : flex;
@@ -18,7 +18,7 @@ html, body {
   background: maroon;
 } */
 
-/* Number two way to center a div */
+/* Number two */
 
 /* .container{
   display: grid;
@@ -33,7 +33,7 @@ html, body {
 } */
 
 
-/* Number three way to center a div */
+/* Number three */
 
 .box{
   width: 300px;
